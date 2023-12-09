@@ -451,15 +451,15 @@
       },
       "sunken": {
         "normal": {
-          "value": "{light.neutralA.3}",
+          "value": "{light.neutral.3}",
           "type": "color"
         },
         "hover": {
-          "value": "{light.neutralA.4}",
+          "value": "{light.neutral.4}",
           "type": "color"
         },
         "active": {
-          "value": "{light.neutralA.5}",
+          "value": "{light.neutral.5}",
           "type": "color"
         },
         "disabled": {
