@@ -452,8 +452,6 @@
       "spacing.xl": "8d0ee28834aa97b87a2a54c395f574fafa22004d",
       "spacing.xxl": "32c3395ca870f92dc0cee395b6ed1df71e338c61",
       "spacing.xxxl": "bba9187481e3c6575a3471ca3fddc9cca8a67a87",
-      "radius.border-xs": "c86c815d2617b34133ec4f13a90f1c1c9ef7022e",
-      "radius.border-sm": "c294349ce3151c916a4f125d2a35ca371c474cd9",
       "radius.border-md": "e81cdb9e29055d34bb08c6a3982e3815f7fa755c",
       "radius.border-lg": "b1a378eee7783f90b16e347f02befe8fda9f1b7b",
       "radius.border-xl": "8888bbd6408d42acea8714e320c3055eebce8fd8",
@@ -833,7 +831,9 @@
       "dark.successA.9": "de0fd675c644b1a451724c85ee02f5b80d32d76b",
       "dark.successA.10": "f4f3497c49d64229728d78aa4ea53a9a6742906e",
       "dark.successA.11": "fa4f89f0790d7c07f53f55fd9111c260401cf949",
-      "dark.successA.12": "91130ee5fcbbf243543f484fae93ec42b5270401"
+      "dark.successA.12": "91130ee5fcbbf243543f484fae93ec42b5270401",
+      "radius.border-xs": "c86c815d2617b34133ec4f13a90f1c1c9ef7022e",
+      "radius.border-sm": "c294349ce3151c916a4f125d2a35ca371c474cd9"
     },
     "group": "core"
   },
