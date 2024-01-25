@@ -320,6 +320,11 @@
     }
   },
   "irisA": {
+    "iris-a01": {
+      "value": "#0000ff03",
+      "type": "color",
+      "description": "0000FF"
+    },
     "iris-a02": {
       "value": "#0000ff08",
       "type": "color",
@@ -359,11 +364,6 @@
       "value": "#0000c0a3",
       "type": "color",
       "description": "0000C0"
-    },
-    "iris-a01": {
-      "value": "#0000ff03",
-      "type": "color",
-      "description": "0000FF"
     },
     "iris-a10": {
       "value": "#0000b6ad",
@@ -578,15 +578,15 @@
       "type": "color",
       "description": "00A32F"
     },
-    "green-a04": {
-      "value": "#00a83829",
-      "type": "color",
-      "description": "00A838"
-    },
     "green-a03": {
       "value": "#00a4331a",
       "type": "color",
       "description": "00A433"
+    },
+    "green-a04": {
+      "value": "#00a83829",
+      "type": "color",
+      "description": "00A838"
     },
     "green-a05": {
       "value": "#019c393b",
@@ -1993,7 +1993,7 @@
       "description": "FEF6BA"
     }
   },
-  "Dimensions": {
+  "Dimension": {
     "100": {
       "type": "number",
       "value": "4"
@@ -2917,6 +2917,10 @@
     "none": {
       "value": "none",
       "type": "textCase"
+    },
+    "uppercase": {
+      "value": "uppercase",
+      "type": "textCase"
     }
   },
   "textDecoration": {
@@ -2926,6 +2930,10 @@
     },
     "underline": {
       "value": "underline",
+      "type": "textDecoration"
+    },
+    "line-through": {
+      "value": "line-through",
       "type": "textDecoration"
     }
   },

@@ -1,57 +1,57 @@
 {
   "spacing": {
     "xxs": {
-      "value": "{Dimensions.050}",
+      "value": "{Dimension.050}",
       "type": "spacing"
     },
     "xs": {
-      "value": "{Dimensions.100}",
+      "value": "{Dimension.100}",
       "type": "spacing"
     },
     "sm": {
-      "value": "{Dimensions.200}",
+      "value": "{Dimension.200}",
       "type": "spacing"
     },
     "md": {
-      "value": "{Dimensions.300}",
+      "value": "{Dimension.300}",
       "type": "spacing"
     },
     "lg": {
-      "value": "{Dimensions.400}",
+      "value": "{Dimension.400}",
       "type": "spacing"
     },
     "xl": {
-      "value": "{Dimensions.600}",
+      "value": "{Dimension.600}",
       "type": "spacing"
     },
     "xxl": {
-      "value": "{Dimensions.700}",
+      "value": "{Dimension.700}",
       "type": "spacing"
     },
     "xxxl": {
-      "value": "{Dimensions.1200}",
+      "value": "{Dimension.1200}",
       "type": "spacing"
     }
   },
   "radius": {
     "border-xs": {
-      "value": "{Dimensions.100}",
+      "value": "{Dimension.100}",
       "type": "borderRadius"
     },
     "border-sm": {
-      "value": "{Dimensions.150}",
+      "value": "{Dimension.150}",
       "type": "borderRadius"
     },
     "border-md": {
-      "value": "{Dimensions.200}",
+      "value": "{Dimension.200}",
       "type": "borderRadius"
     },
     "border-lg": {
-      "value": "{Dimensions.300}",
+      "value": "{Dimension.300}",
       "type": "borderRadius"
     },
     "border-xl": {
-      "value": "{Dimensions.400}",
+      "value": "{Dimension.400}",
       "type": "borderRadius"
     }
   },
